@@ -1,14 +1,14 @@
 # **🎨Landing Museum**
 
-📋 ### **Project Description**
+### 📋**Project Description**
 Landing Museum is a responsive multi-section landing page designed for an art museum. Built with semantic HTML5 and modern SCSS using a mobile-first approach. The project applies BEM methodology, mixins, and CSS variables for clean and scalable styling.
 
 ### 🚀**Live Preview**
-[🌐 View Live Demo] (https://MariiaKapustkina.github.io/museum_landing/)
+[🌐 View Live Demo](https://MariiaKapustkina.github.io/museum_landing/)
 
 ### 🎨**Design Reference**
 This project is based on a design created in Figma:
-[🎨 Figma Design] (https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590-29&p=f&t=55nQislslpyD0lMC-0)
+[🎨 Figma Design](https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590-29&p=f&t=55nQislslpyD0lMC-0)
 
 ### 🛠️**Technologies Used**
 - 🏗️ HTML5 (semantic markup)  
@@ -30,7 +30,7 @@ or
 yarn start
 
 # **✨ Key Features**
-📱 Fully responsive design for mobile, tablet, and desktop
-🧩 Semantic and accessible HTML markup
-🎨 Clean and scalable styles using SCSS and BEM methodology
-🧭 Easy navigation between page sections
+- 📱 Fully responsive design for mobile, tablet, and desktop
+- 🧩 Semantic and accessible HTML markup
+- 🎨 Clean and scalable styles using SCSS and BEM methodology
+- 🧭 Easy navigation between page sections
