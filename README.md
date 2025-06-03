@@ -17,6 +17,7 @@ This project is based on a design created in Figma:
 
 ### ⚙️**Getting Started**
 Follow these steps to set up the project locally:
+
 1). 📥 Clone the repository:
 git clone https://github.com/your-username/project-name.git
 cd project-name
